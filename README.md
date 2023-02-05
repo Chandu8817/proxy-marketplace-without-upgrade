@@ -4,11 +4,9 @@ Proxy contract with marketplace .
 Try running some of the following tasks:
 
 ```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
+
+Node JS should be installed
+Run npm install for the first time to install packages
+To test the Workflow please run   `` npx hardhat test ``
+
 ```
